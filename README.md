@@ -1,4 +1,4 @@
-# Asynchronous FIFO (8x16) Design and Verification
+# Asynchronous FIFO (16x8) Design and Verification
 
 This repository contains the **RTL design** and **SystemVerilog-based verification** of an **Asynchronous FIFO**.  
 The FIFO supports independent read/write clocks and is suitable for CDC (Clock Domain Crossing) applications.  
@@ -61,5 +61,3 @@ RTL Design & Verification (SystemVerilog)
 Practice Project for learning CDC concepts
 
 
-│ └── fifo_block_diagram.png
-└── README.md
