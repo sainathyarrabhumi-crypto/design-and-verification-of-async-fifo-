@@ -46,12 +46,6 @@ async-fifo/
 - ✅ Scoreboard ensured end-to-end data integrity  
 
 ---
-
-## 📌 Run Instructions
-```bash
-git clone https://github.com/sainathyarrabhumi-crypto/async-fifo.git
-cd async-fifo
-make run    # or use sim/run.do for QuestaSim
 👨‍💻 Author
 
 Y. Sainath Reddy
