@@ -52,6 +52,6 @@ Y. Sainath Reddy
 
 RTL Design & Verification (SystemVerilog)
 
-Practice Project for learning CDC concepts
+Practice Project for sv style verification
 
 
